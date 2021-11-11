@@ -1,5 +1,5 @@
 # Exercicio1-Luigi-CBPF
-*Notebook of the first exercise done for the course Métodos para Análise de grande volume de dados e Astroinformática, CBPF, 2021.2, Teacher Clécio R. Bom (clearnightsrthebest.com)*
+*Notebook of the first exercise done for the course Métodos para Análise de grande volume de dados e Astroinformática, CBPF, 2021.2, Teacher Clécio R. Bom (clearnightsrthebest.com).*
 
 Notebook do primeiro exercício realizado da disciplina Métodos para Análise de grande volume de dados e Astroinformática, CBPF, 2021.2, Prof. Clécio R. Bom (clearnightsrthebest.com).
 
